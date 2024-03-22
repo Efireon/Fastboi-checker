@@ -17,4 +17,4 @@ Maybe I will add more features for testing
 
 # Social
 
-TG: [@HaplessCat](https://t.me/HaplessCat)https://t.me/HaplessCat
+TG: (HaplessCat)https://t.me/HaplessCat
