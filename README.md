@@ -9,4 +9,7 @@ Maybe I will add more features for testing
 
 To build ISO use sudo:
 
-$ sh build_me.sh
+<a name="player_lookup_example"></a>
+```shell script
+sh build_me.sh
+```
