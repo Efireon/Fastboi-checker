@@ -7,7 +7,7 @@ Perhaps it will be useful to someone
 
 Maybe I will add more features for testing
 
-To build ISO use sudo:
+To build ISO use in sudo:
 
 <a name="player_lookup_example"></a>
 ```shell script
