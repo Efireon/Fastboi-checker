@@ -2,6 +2,7 @@
 System auto-check for important modules and adapters
 
 It is a simple operating system based on Arch Linux.
+Perhaps it will be useful to someone
 
 To build ISO use in sudo:
 
@@ -12,6 +13,8 @@ sh build_me.sh
 
 # Future
 
-Perhaps it will be useful to someone
-
 Maybe I will add more features for testing
+
+# Social
+
+TG: [@HaplessCat](https://t.me/HaplessCat)https://t.me/HaplessCat
